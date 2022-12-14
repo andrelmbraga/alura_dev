@@ -1,0 +1,9 @@
+terraform init 
+Install packets
+
+terraform  plan
+Show what was configured 
+
+terraform apply
+
+ssh -i "iot_iac.pem" ubuntu@ec2-3-91-241-204.compute-1.amazonaws.com
